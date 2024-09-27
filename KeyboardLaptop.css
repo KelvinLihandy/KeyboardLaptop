@@ -1,7 +1,6 @@
 *{
     box-sizing: border-box;
     background-color: #120f0f;
-    font-size: 25px;
 }
 
 .all-container{
@@ -22,6 +21,7 @@
     margin: 10px;
     line-height: 80px;
     text-align: center;
+    font-size: 25px;
 }
 
 .special-0{
