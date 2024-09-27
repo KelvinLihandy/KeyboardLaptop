@@ -1,4 +1,5 @@
 function pressOn(event){
+    event.preventDefault();
     const press = event.code;
     if(press){
         const element = document.getElementById(press);
@@ -9,6 +10,7 @@ function pressOn(event){
 }
 
 function pressOff(event){
+    event.preventDefault();
     const press = event.code;
     if(press){
         const element = document.getElementById(press);
