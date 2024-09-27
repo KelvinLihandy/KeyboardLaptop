@@ -17,7 +17,6 @@
     margin: 10px;
     line-height: 80px;
     text-align: center;
-    font-size: 25px;
 }
 
 .special-0{
@@ -27,22 +26,27 @@
 
 .normal{
     width: 80px;
+    font-size: 25px;
 }
 
 .special-1{
     width: 180px;
+    font-size: 25px;
 }
 
 .special-2{
     width: 140px;
+    font-size: 25px;
 }
 
 .special-3{
     width: 180px;
+    font-size: 25px;
 }
 
 .special-4{
     width: 240px;
+    font-size: 25px;
 }
 
 .space{
