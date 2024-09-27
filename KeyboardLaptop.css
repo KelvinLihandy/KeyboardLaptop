@@ -7,6 +7,14 @@
     display: flex;
 }
 
+.font-1{
+    font-size: 25px;
+}
+
+.font-2{
+    font-size: 20px;
+}
+
 .box{
     border-radius: 10px;
     border: 1px solid black;
@@ -19,45 +27,44 @@
     text-align: center;
 }
 
-.special-0{
-    width: 90px;
-    font-size: 20px;
-}
-
 .normal{
     width: 80px;
-    font-size: 25px;
+}
+
+.special-0{
+    width: 90px;
+    margin: 10px; 
+    border-radius: 10px;
 }
 
 .special-1{
     width: 180px;
-    font-size: 25px;
 }
 
 .special-2{
     width: 140px;
-    font-size: 25px;
 }
 
 .special-3{
     width: 180px;
-    font-size: 25px;
 }
 
 .special-4{
     width: 240px;
-    font-size: 25px;
 }
 
 .space{
     width: 480px;
 }
 
-.half{
+.half-box{
     height: 40px;
-    font-size: 20px;
     line-height: 40px;
     background-color: black;
+    border: 1px solid black;
+    color: #bbbaba;
+    font-weight: 300;
+    text-align: center;
 }
 
 .upper{
